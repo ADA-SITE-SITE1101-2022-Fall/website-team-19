@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang = "en">
-<head>
-    <link href="style.css" type="text/css" rel="stylesheet">
-    <title>Team 19: How websites work?</title>
-</head>
+<main>
+  <h1>Team 19</h1>
+  <hr>
+  <h2>Team members</h2>
+  <hr>
+</main>
+
   </html>
