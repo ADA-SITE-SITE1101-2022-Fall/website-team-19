@@ -2,9 +2,15 @@
 <html lang = "en">
 <main>
   <h1>Team 19</h1>
-  <hr>
   <h2>Team members</h2>
-  <hr>
+   <ul>
+      <li>Ilqar Malikov</li>
+      <li>Farrukh Mammad</li>
+      <li>Aysu Azammadova</li>
+      <li>Daniz Zeynalova</li>
+    </ul>
+  <h1>Homework 3: How websites work?</h1>
+
 </main>
 
   </html>
