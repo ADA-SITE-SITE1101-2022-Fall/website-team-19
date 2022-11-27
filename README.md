@@ -10,8 +10,8 @@
       <li>Daniz Zeynalova</li>
     </ul>
   <h1>Homework 3: How websites work?</h1>
-  <h3>Our Progress</h3>
-  https://github.com/ADA-SITE-SITE1101-2022-Fall/website-team-19/index.html
+  <h3>Our Progress:</h3>
+  
 </main>
 
   </html>
