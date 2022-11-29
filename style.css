@@ -73,20 +73,20 @@ nav a {
     box-shadow: 0 0 black;
 }
 
-.img {
+.media {
     overflow: auto;
     display: flex;
     justify-content: center;
 }
 
-.img img {
+.media img {
     pointer-events:visible !important;
-    width: 15%;
+    width: 19%;
     height: fit-content;
     margin: auto auto;
 }
 
-.img img:hover {
+.media img:hover {
     opacity: 0.8;
     cursor: pointer;
 }
