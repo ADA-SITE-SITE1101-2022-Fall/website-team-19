@@ -46,8 +46,10 @@ nav a {
 }
 
 .logo {
+    display: block;
+    margin: auto;
     float: center;
-    height: 70px;
+    height: 100px;
 }
 
 
