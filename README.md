@@ -11,7 +11,7 @@
     </ul>
   <h1>Homework 3: How websites work?</h1>
   <h3>Our Progress:</h3>
-  https://htmlpreview.github.io/?https://github.com/ADA-SITE-SITE1101-2022-Fall/website-team-19/blob/main/index.html
+  https://htmlpreview.github.io/?https://github.com/ADA-SITE-SITE1101-2022-Fall/website-team-19/blob/main/Pages/main/index.html
 </main>
 
   </html>
