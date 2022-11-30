@@ -115,10 +115,10 @@ nav a {
     cursor: pointer;
 }
 
-.video{
-    display: block;
-    margin: auto;
-    float: center;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #progress {
