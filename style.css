@@ -4,7 +4,7 @@ html {
 
 body {
     padding: 7px;
-    background-color: #ded6bd;
+    background-color: #1D1D1D;
     font-family: Roboto, serif;
     font-weight: lighter;
     margin: 0;
@@ -76,15 +76,15 @@ nav a {
 
 
 .button {
+
     display: inline-block;
     padding: 8px;
     margin: 0 5px;
-    border: 1px solid black;
-    background-color: #c5cc85;
     color: white;
-    box-shadow: 3px 3px #527db6;
+    background: #404040;
+    border-radius: 5px;
+    cursor: pointer;
     transition: all 0.2s;
-    text-decoration: none;
 }
 
 .button:hover {
