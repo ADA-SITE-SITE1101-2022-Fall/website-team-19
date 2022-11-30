@@ -115,6 +115,12 @@ nav a {
     cursor: pointer;
 }
 
+.video{
+    display: block;
+    margin: auto;
+    float: center;
+}
+
 #progress {
     display: flex;
     flex-wrap: wrap;
