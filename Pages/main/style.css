@@ -1,0 +1,158 @@
+body{
+    background-color: #4C566A;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    overflow-y: hidden;
+}
+header{
+    display: flex;
+    background-color: #2E3440;
+    color: white;
+    display: flex;
+    height: 50px;
+    padding: 10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    justify-content: space-between;
+}
+
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    height: 50px;
+    object-fit: cover;
+    margin-left: 10px;
+}
+
+.logo span{
+    align-self: center;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.active{
+    color: #DEC692;
+    text-decoration: underline;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    gap: 20px;
+    margin-right: 10px;
+    color: #8FBCBB;
+}
+
+nav a{
+    cursor: pointer;
+    color: #8FBCBB;
+}
+
+main{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+}
+
+.main-left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.main-right{
+    background-color: #434C5E;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+}
+
+.card{
+    background-color: #3B4252;
+    height: 100px;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+}
+
+.card img{
+    height: 75px;
+    border-radius: 500px;
+    object-fit: cover;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+main h2{
+    margin-bottom: 5px;
+}
+main h3{
+    margin-top: 5px;
+    font-weight: 500;
+}
+.gallery{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+}
+.gallery-footer{
+    width: 480px;
+    height: 30px;
+    background-color: #434C5E;
+    color: #EBCB8B;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+}
+.description{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+h5{
+    margin-top: 0px;
+    font-weight: 400;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    padding: 10px;
+}
+.name{
+    font-weight: 700;
+}
+.card-desc{
+    font-size: 14px;
+    margin-top: 5px;
+}
+.date{
+    text-align: right;
+    color: #EBCB8B;
+    font-size: 14px;
+    font-weight: 700;
+    align-self: flex-end;
+    margin-top: 5px;
+}
